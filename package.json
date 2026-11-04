@@ -1,0 +1,6 @@
+{
+  "packageManager": "pnpm@12.5.1",
+  "devDependencies": {
+    "@antfu/ni": "30.6.0"
+  }
+}
